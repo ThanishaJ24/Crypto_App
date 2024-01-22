@@ -1,6 +1,7 @@
 # crypto_price_tracker
 
 A new Flutter project.
+Its a Flutter Crypto Price Tracker App with Getx state management and Coingecko API.
 
 ## Getting Started
 
